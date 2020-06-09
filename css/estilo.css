@@ -1,0 +1,16 @@
+.fondo{
+    background-image: url(../img/fondo1.jpg )!important;
+    background-size: cover;
+    color: white !important;
+}
+.tamañotarjeta{
+    margin: 60px;
+}
+.contenedorformulario{
+    border: rgb(19, 209, 209) solid 3px;
+    margin: 40px;
+    padding: 10px;
+}
+.boton{
+    margin: 5px;
+}
